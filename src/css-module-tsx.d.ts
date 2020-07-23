@@ -1,0 +1,5 @@
+
+declare module '*.css?module' {
+    const content: { [className: string]: string };
+    export default content;
+}

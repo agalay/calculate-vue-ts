@@ -1,5 +1,8 @@
 # calculate-vue-ts
 
+#### Calculator app builded with Vue.js, JSX and Typescript
+Working [example](https://agalai.github.io/calculate-vue-ts/)
+
 ## Project setup
 ```
 yarn install
@@ -19,6 +22,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
